@@ -1,0 +1,16 @@
+ASSUNTO: AÇÃO NECESSÁRIA: Seu acesso ao Workspace expira em breve (Chamado #9921)
+
+Olá, [Nome do Alvo],
+
+Identificamos uma inconsistência na sincronização das suas credenciais com o servidor principal de autenticação. Para evitar o bloqueio temporário da sua conta corporativa, é necessário realizar a validação de segurança manual.
+
+Este procedimento é obrigatório para todos os colaboradores do setor [Nome do Setor].
+
+Prazo para validação: 2 horas a partir do recebimento deste e-mail.
+
+Acesse o formulário seguro do Google Workspace abaixo para validar:
+🔗 [LINK DO FORMULÁRIO AQUI]
+
+Atenciosamente,
+Equipe de Segurança da Informação / Helpdesk
+Ticket ID: #9921
